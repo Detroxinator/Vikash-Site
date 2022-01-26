@@ -145,6 +145,15 @@ hr{
     margin-top:60px;
 }
 
-a:hover{
+.bottom-container a:hover{
     color:#EAF6F6;
+}
+
+.skill-row p a{
+    text-decoration:none;
+    
+}
+
+.skill-row p a:hover{
+   color:gray;
 }
